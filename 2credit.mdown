@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-### PICK ONE:
+### PICK ONE (1 Overview per Project/Team):
 * a link to the Github repository that houses your project
 * a .txt file describing the project
 
