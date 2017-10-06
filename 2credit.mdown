@@ -2,6 +2,7 @@
 
 ### Requirements:
 
+### PICK ONE:
 * a link to the Github repository that houses your project
 * a .txt file describing the project
 
@@ -63,29 +64,5 @@ Next Steps:
 What are 1 or 2 things that you plan on implementing next?
 ```
 
-### How Github?
-
-* I understand that many of you may have never used github, but I promise you that it's not very complicated once you get the hang of it.
-
-* Diving in, there are any number of resources that explain git and Github:
-
-	* https://google.com
-	* https://tutorialspoint.com/git/
-
-* git is the protocol developed by the creator of Linux Linus Torvalds sometime ago (idk, google it) that allows one to have version control and staging for projects over the internet
-
-#### What is version control and what do you mean by staging?
-
-* it's a way to keep certain versions of your code separate from others so that developers don't step on each others toes while working on a project.
-* stages of a project are essentially the different version of the code and therefore the different versions as well.
-
-### Resources:
-
-#### OS/Shell
-* http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
-* https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/using-windows-powershell?view=powershell-5.1
-
-#### Git/hub
-* https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
-
+### That's all folks! :)
 
