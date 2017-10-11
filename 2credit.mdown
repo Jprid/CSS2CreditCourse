@@ -13,7 +13,7 @@ Please email this information, to cssdepaul@gmail.com
 *you can find tutorial/examples of these files below*
 
 ### Specifications:
-where your README.md file should look like:
+What your README.md file should look like:
 ```markdown
 #   <Project Title>
 ### Your name
